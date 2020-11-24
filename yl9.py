@@ -1,0 +1,5 @@
+a = int(input ("sisestage esimene number: "))
+b = int(input ("sisestage teine number: "))
+c = int(input("sisestage kolmas number"))
+if (a = b)
+    print ("yes it is")
