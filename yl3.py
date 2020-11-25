@@ -1,0 +1,7 @@
+n = int(input("sisestage arv 1-9: "))
+ni = (n+n)
+print(n+n)
+nii = (n+n+n)
+print(n+n+n)
+summa = int(n) + int(ni) + int(nii) 
+print(summa)
